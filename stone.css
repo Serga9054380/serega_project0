@@ -1,0 +1,143 @@
+.bg-header{
+    height: 500px;
+    width: 100%;
+    background-image: url(яыык.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+
+}
+
+.header-dark{
+    background: rgba(0, 0, 0, 0.31);
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-title{
+    color: gold;
+    font-size: 100px;
+    font-weight: bold;
+}
+
+.header-title1{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+body{
+    margin: 0;
+}
+
+.advantage{
+     background: rgba(0, 0, 0, 0.31);
+    height: 500px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image:url("i.jpg") ;
+    background-size: cover;
+    background-repeat:no-repeat ;
+
+}
+
+.advantage-mini{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200px;
+    vertical-align: top;
+    text-align: center;
+
+}
+
+.advantage-images{
+    height: 200px;
+    width: 200px;
+}
+
+.advantage-mini-text{
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+    background-image: url(кек.jpg);
+    height: 135px;
+}
+
+.store{
+    width: 100%;
+    min-height:500px ;
+    text-align: center;
+    background-image: url(p.jpg);
+    background-size: cover;
+    background-repeat:no-repeat ;
+
+
+}
+.cheats-mini{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 200px;
+    vertical-align: top;
+    text-align: center;
+}
+.cheats-mini-text{
+    font-size: 56px;
+    color: red;
+    margin-top: 10px;
+    height: 135px;
+    font-weight:bold ;
+}
+
+.Reviews {
+    text-align: center;
+    background-image: url("HA.jpg");
+}
+.Reviews-mini{
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+    vertical-align: top;
+    text-align: center;
+    background-size: cover;
+    background-repeat:no-repeat ;
+    margin:20px ;
+
+}
+.Reviews-image{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 120px;
+    margin-right: 20px;
+
+}
+.Reviews-mini-text{
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 20px;
+    color: midnightblue;
+    margin-top: 10px;
+    background:white ;
+    height: 135px;
+    border-radius: 20px;
+padding: 5px;
+}
+.ikon{
+    color: white;
+    font-size: 70px;
+}
+.num{
+     height: 200px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 120px;
+    margin-right: 20px;
+}
